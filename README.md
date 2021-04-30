@@ -17,7 +17,3 @@ library for the detection of facial features.
 1. To change the camera use 0 for internal camera and 1 for external webcam in the **cap = cv2.VideoCapture(0)** of [Drowsiness_detection.py](https://github.com/AkiiSinghal/Drowsiness-Detection/blob/master/Drowsiness_detection.py).
 2. Run using ***python Drowsiness_detection.py*** command.
 
-## Screenshots
-![Screenshot (27)~2](https://user-images.githubusercontent.com/42001728/62093938-d7fd8500-b298-11e9-95ec-e76a99b31a45.png)
-![Screenshot (29)~2](https://user-images.githubusercontent.com/42001728/62093939-d8961b80-b298-11e9-839b-6710de285be5.png)
-![Screenshot (46)~2](https://user-images.githubusercontent.com/42001728/62093941-d8961b80-b298-11e9-927d-3a71df9933d8.png)
